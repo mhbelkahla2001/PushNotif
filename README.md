@@ -109,9 +109,9 @@ Tu peux tester les endpoints avec **Postman** ou **cURL** :
 
 ## 👨‍💻 Auteur
 
-- **Nom** : Belkahla Mohamed Habib  
+- **Nom** : Benkahla Mohamed El Habib  
 - 🎓 Projet stage d'été – Proxym-IT Sousse 
-- 📫 Email : mhbelkahla2001@gmail.com
+
 
 ---
 
